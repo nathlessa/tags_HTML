@@ -1,6 +1,6 @@
 # Desafio de Projeto - Website Básico
 
-Este projeto faz parte de um Desafio de Projeto para praticar HTML, aplicando uma estrutura básica e utilizando diversas tags essenciais para criar páginas web.
+Este projeto faz parte de um Desafio de Projeto da DIO para praticar HTML, aplicando uma estrutura básica e utilizando diversas tags essenciais para criar páginas web.
 
 ## Descrição do Projeto
 
